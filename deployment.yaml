@@ -29,6 +29,6 @@ spec:
     spec:
       containers:
       - name: flask-change
-        image: thebadalov/argocd:1.9
+        image: thebadalov/argocd:2.1
         ports:
         - containerPort: 5000

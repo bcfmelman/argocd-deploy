@@ -21,7 +21,7 @@ spec:
   selector:
     matchLabels:
       app: hello-python
-  replicas: 1
+  replicas: 5
   template:
     metadata:
       labels:
